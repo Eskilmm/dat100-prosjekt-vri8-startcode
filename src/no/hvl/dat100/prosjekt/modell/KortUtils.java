@@ -17,6 +17,12 @@ public class KortUtils {
 	
 	public static void sorter(KortSamling samling) {
 		
+		KortSamling npSamling = new KortSamling();
+		
+		
+		
+		
+		
 		// TODO - START
 		
 		throw new UnsupportedOperationException(TODO.method());
